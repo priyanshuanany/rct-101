@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  color: white;
+  background-color: black;
+}
+.links {
+  display: flex;
+  list-style-type: none;
+  padding: 60px;
+}
+.li {
+  margin-left: 40px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.button {
+  color: white;
+  background-color: rgb(0, 183, 255);
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.logo {
+  font-size: 25px;
+  font-weight: bold;
+}

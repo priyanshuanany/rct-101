@@ -1,0 +1,11 @@
+.mobile{
+    align-items: center;
+}
+.head{
+    margin-left: 10px;
+}
+.table{
+    margin-left: 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
